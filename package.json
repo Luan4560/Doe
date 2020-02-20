@@ -1,0 +1,19 @@
+{
+  "name": "doe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Luan4560/Doe.git",
+  "author": "Luan <luan.nascimento11@outlook.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.0",
+    "pg": "^7.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
